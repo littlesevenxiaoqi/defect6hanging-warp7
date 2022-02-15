@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.25_15_27_30.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hanging-warp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1790</xmin>
+			<ymin>732</ymin>
+			<xmax>1904</xmax>
+			<ymax>1706</ymax>
+		</bndbox>
+	</object>
+</annotation>

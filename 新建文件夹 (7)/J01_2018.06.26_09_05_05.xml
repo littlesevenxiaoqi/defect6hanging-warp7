@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.26_09_05_05.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hanging-warp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>870</xmin>
+			<ymin>4</ymin>
+			<xmax>948</xmax>
+			<ymax>1906</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1025</xmin>
+			<ymin>379</ymin>
+			<xmax>1055</xmax>
+			<ymax>745</ymax>
+		</bndbox>
+	</object>
+</annotation>
